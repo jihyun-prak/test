@@ -1,3 +1,4 @@
+// 나는 아재요.
 printf("~~~~");
 lolo
 ooooo
